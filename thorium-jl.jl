@@ -27,8 +27,6 @@ function spin(q,p)
     k
 end
 
-
-
 function encode(p,q)
     k = copy(q)
     c = Bool[]
